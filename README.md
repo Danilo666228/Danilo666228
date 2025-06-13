@@ -1,1 +1,1 @@
-![Codewars](https://github.r2v.ch/codewars?user=Danilo666228)
+![Codewars](https://github.r2v.ch/codewars?user=Danilo666228&top_languages=true)
